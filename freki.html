@@ -26,13 +26,14 @@
 
     <p id="fo">Az eredmény: </p>
 
-        <script>
-            var freki = 0;
-            function szamol(){
-                
-            } 
+    <script>
+        var freki = 0;
+        function szamol(){
+            freki = parseInt(ind.value) + parseInt(cap.value) ;
+            document.getElementById('fo').innerHTML = freki;
+       } 
 
-        </script>
+    </script>
 
 
 </body>
