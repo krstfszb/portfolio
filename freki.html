@@ -29,7 +29,7 @@
     <script>
         var freki = 0;
         function szamol(){
-            freki = parseInt(ind.value) + parseInt(cap.value) ;
+            freki = 1 / (2 * Math.PI * Math.sqrt(parseInt(ind.value) * parseInt(cap.value))) ;
             document.getElementById('fo').innerHTML = freki;
        } 
 
