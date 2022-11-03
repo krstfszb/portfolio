@@ -30,10 +30,14 @@
 
 
     <script>
-        var freki = 0;
-        function szamol(){
-            freki = 1 / (2 * Math.PI * Math.sqrt(parseInt(ind.value) * parseInt(cap.value))) ;
-            document.getElementById('fo').innerHTML = freki;
+        let L = parseInt(ind.value) / 1000000 ;
+        let C = parseInt(cap.value) / 1000000 ;
+        let freki =  L * C ;
+        freki = Math.sqrt(freki) ;
+        freki = 2 * freki ;
+        freki = Math.PI * freki ;
+        freki = 1 / freki ;
+        document.getElementById('fo').innerHTML = freki;
        } 
 
     </script>
