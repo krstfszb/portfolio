@@ -15,4 +15,4 @@
 |Tranzisztor|T1|BC|1|
 
 ### Képek:
-! ()
+![asd](/img/LED/20230216_105507.jpg)
