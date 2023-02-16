@@ -1,7 +1,7 @@
 # Vezetéknélküli LED
 
 ### Kapcsolási rajz:
-! (./img/LED/20230216_105507.jpg)
+![asd](/img/LED/20230216_105507.jpg)
 
 ### Alkatrészek:
 |Név|Jelölés|Érték/Típus|Darab|
@@ -15,4 +15,4 @@
 |Tranzisztor|T1|BC|1|
 
 ### Képek:
-![asd](/img/LED/20230216_105507.jpg)
+!
