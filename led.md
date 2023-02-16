@@ -15,7 +15,7 @@
 |Kondenzátor|C2|-|-|
 |Kondenzátor|C3|4,7nF|1|
 |Kondenzátor|C4|470nF|1|
-|Tranzisztor|T1|BC|1|
+|Tranzisztor|T1|BC639|1|
 
 ## Képek:
 ### Forrasztás előtt
