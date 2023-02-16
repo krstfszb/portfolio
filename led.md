@@ -15,4 +15,4 @@
 |Tranzisztor|T1|BC|1|
 
 ### Képek:
-!(/ing/LED/)
+! (https://github.com/krstfszb/portfolio/tree/11/img/LED)
