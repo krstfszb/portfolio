@@ -1,7 +1,7 @@
 # Vezetéknélküli LED
 
 ### Kapcsolási rajz:
-!(/img/LED/)
+!(/img/LED/krstfszb/portfolio/img/LED/20230216_105507.jpg)
 
 ### Alkatrészek:
 |Név|Jelölés|Érték/Típus|Darab|
