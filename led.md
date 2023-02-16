@@ -18,13 +18,13 @@
 |Tranzisztor|T1|BC|1|
 
 ### Képek:
-##### Forrasztás előtt
+#### Forrasztás előtt
 
 ![asd](/img/LED/20230210_091954.jpg)
 
 
 
-##### Összeforrasztva
+#### Összeforrasztva
 
 ![asd](/img/LED/20230210_094549.jpg)
 
@@ -36,7 +36,7 @@
 
 
 
-##### Rézhuzal felforrasztása után
+#### Rézhuzal felforrasztása után
 
 ![asd](/img/LED/20230210_104012.jpg)
 
