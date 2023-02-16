@@ -1,14 +1,9 @@
 # Vezetéknélküli LED
 
-## Kapcsolási rajz:
->
->
->
->
->
->
+### Kapcsolási rajz:
+!(/img/LED/)
 
-## Alkatrészek:
+### Alkatrészek:
 |Név|Jelölés|Érték/Típus|Darab|
 |:---|:---:|:---:|:---:|
 |Feszültség|V1|3V-6V|-|
@@ -18,3 +13,6 @@
 |Kondenzátor|C3|4,7nF|1|
 |Kondenzátor|C4|470nF|1|
 |Tranzisztor|T1|BC|1|
+
+### Képek:
+!(/ing/LED/)
