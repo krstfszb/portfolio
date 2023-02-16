@@ -15,4 +15,9 @@
 |Tranzisztor|T1|BC|1|
 
 ### Képek:
-!
+![asd](/img/LED/20230210_091954.jpg
+![asd](/img/LED/20230210_094549.jpg
+![asd](/img/LED/20230210_094555.jpg
+![asd](/img/LED//20230210_094602.jpg
+![asd](/img/LED/20230210_104012.jpg
+![asd](/img/LED/20230210_104018.jpg
