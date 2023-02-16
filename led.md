@@ -1,7 +1,10 @@
 # Vezetéknélküli LED
 
+
 ### Kapcsolási rajz:
 ![asd](/img/LED/20230216_105507.jpg)
+
+
 
 ### Alkatrészek:
 |Név|Jelölés|Érték/Típus|Darab|
@@ -20,6 +23,7 @@
 ![asd](/img/LED/20230210_091954.jpg)
 
 
+
 ##### Összeforrasztva
 
 ![asd](/img/LED/20230210_094549.jpg)
@@ -29,6 +33,7 @@
 
 
 ![asd](/img/LED//20230210_094602.jpg)
+
 
 
 ##### Rézhuzal felforrasztása után
