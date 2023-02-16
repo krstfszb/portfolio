@@ -1,12 +1,12 @@
 # Vezetéknélküli LED
 
 
-### Kapcsolási rajz:
+## Kapcsolási rajz:
 ![asd](/img/LED/20230216_105507.jpg)
 
 
 
-### Alkatrészek:
+## Alkatrészek:
 |Név|Jelölés|Érték/Típus|Darab|
 |:---|:---:|:---:|:---:|
 |Feszültség|V1|3V-6V|-|
@@ -17,14 +17,14 @@
 |Kondenzátor|C4|470nF|1|
 |Tranzisztor|T1|BC|1|
 
-### Képek:
-#### Forrasztás előtt
+## Képek:
+### Forrasztás előtt
 
 ![asd](/img/LED/20230210_091954.jpg)
 
 
 
-#### Összeforrasztva
+### Összeforrasztva
 
 ![asd](/img/LED/20230210_094549.jpg)
 
@@ -36,7 +36,7 @@
 
 
 
-#### Rézhuzal felforrasztása után
+### Rézhuzal felforrasztása után
 
 ![asd](/img/LED/20230210_104012.jpg)
 
